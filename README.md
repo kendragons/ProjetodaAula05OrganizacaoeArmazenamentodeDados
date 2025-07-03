@@ -27,4 +27,14 @@ Testar e expandir os conhecimentos do jogador sobre teoria musical de uma forma 
 
 * **HTML:** Para estruturar a página do quiz, incluindo a área da pergunta, os botões de resposta e o placar.
 * **CSS:** Para estilizar o jogo, criando uma interface limpa e agradável com uma temática musical.
-* **JavaScript:** Para toda a lógica do
+* **JavaScript:** Para toda a lógica do do jogo, incluindo:
+    * Armazenar e gerenciar o conjunto de perguntas e respostas.
+    * Exibir as perguntas na tela.
+    * Processar a resposta do jogador, verificar se está correta e atualizar a pontuação.
+
+### Como Jogar
+
+1.  Clone ou baixe este repositório para o seu computador.
+2.  Abra o arquivo `index.html` em seu navegador de preferência.
+3.  Leia a pergunta e clique na resposta que você acredita ser a correta.
+4.  Avance no quiz e veja sua pontuação no final. Desafie-se a gabaritar!
